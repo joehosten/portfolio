@@ -1,0 +1,35 @@
+{
+  "title": "Dorset AONB Photography",
+  "description": "A collection of photographs capturing the scenic beauty of the Dorset Area of Outstanding Natural Beauty in England.",
+  "coverImage": "https://github.com/joehosten/portfolio/blob/main/images/photography/dorset/durdle-door.jpg?raw=true",
+  "images": [
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/dorset/arch.jpg?raw=true",
+      "description": "A natural rock formation archway captured in a scenic landscape."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/dorset/boat.jpg?raw=true",
+      "description": "A small boat navigating the open sea along the Dorset coast."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/dorset/durdle-door-behind.jpg?raw=true",
+      "description": "A view of Durdle Door from behind, highlighting its unique rock formations."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/dorset/durdle-door-beinhd.jpg?raw=true",
+      "description": "Another perspective of Durdle Door from behind, emphasizing the rugged coastline."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/dorset/durdle-door.jpg?raw=true",
+      "description": "A classic shot of the iconic Durdle Door, a natural limestone arch."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/dorset/embyro-cove.jpg?raw=true",
+      "description": "A scenic view of Embyro Cove, showcasing the tranquil Dorset coastline."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/dorset/stumps_.jpg?raw=true",
+      "description": "Rocks emerging from the sea, creating unique stump-like formations along the Dorset coast."
+    }
+  ]
+}

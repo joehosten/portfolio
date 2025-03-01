@@ -1,0 +1,39 @@
+{
+  "title": "Moments from 2024",
+  "description": "A collection of miscellaneous photographs capturing diverse moments and scenes.",
+  "coverImage": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/fireworks.JPG?raw=true",
+  "images": [
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/b737-landing.jpg?raw=true",
+      "description": "A Boeing 737 airplane gracefully descending towards the runway."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/cars-longexposre.jpg?raw=true",
+      "description": "Light trails created by cars on a busy road at night, captured with a long exposure."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/clock-tower.jpg?raw=true",
+      "description": "A majestic clock tower standing tall against a clear sky."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/field.jpg?raw=true",
+      "description": "A vast green field stretching towards the horizon."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/fireworks.JPG?raw=true",
+      "description": "A vibrant display of fireworks illuminating the night sky."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/mini-penygader-mountain.JPG?raw=true",
+      "description": "A portrait of my friend, Mini, with the majestic Penygader Mountain as the backdrop."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/stars.JPG?raw=true",
+      "description": "A breathtaking night sky filled with countless stars."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/sunset-road.jpg?raw=true",
+      "description": "A picturesque sunset over a winding country road."
+    }
+  ]
+}
