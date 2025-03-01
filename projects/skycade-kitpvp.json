@@ -1,0 +1,10 @@
+{
+  "id": "skycade-kitpvp",
+  "name": "Skycade KitPVP",
+  "type": "Minecraft Development",
+  "image": "",
+  "description": "SkycadeKitPVP is a multifunctional KitPVP plugin that tracks stats, manages kits, and every other aspect of this Skycade gamemode. It hooked into core systems, such as SkycadeCore. ",
+  "blogPost": "/",
+  "link": "https://skycade.net",
+  "date": "2021-05-19"
+}

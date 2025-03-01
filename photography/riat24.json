@@ -1,0 +1,39 @@
+{
+  "title": "Royal International Air Tattoo 2024",
+  "description": "A collection of images from the Royal International Air Tattoo 2024, featuring various aircraft and aerobatic displays.",
+  "coverImage": "https://github.com/joehosten/portfolio/blob/main/images/photography/riat2024/lineup.jpg?raw=true",
+  "images": [
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/riat2024/canadaf18.jpg?raw=true",
+      "description": "A Canadian CF-18 Hornet preparing for takeoff."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/riat2024/engine.jpg?raw=true",
+      "description": "A close-up view of a powerful jet engine."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/riat2024/f16.jpg?raw=true",
+      "description": "An F-16 Fighting Falcon parked on the tarmac."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/riat2024/lineup.jpg?raw=true",
+      "description": "A lineup of various aircraft on the tarmac."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/riat2024/redsbigvixen.jpg?raw=true",
+      "description": "The Red Arrows performing the 'Big Vixen' formation."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/riat2024/redsdiamond9.jpg?raw=true",
+      "description": "The Red Arrows in their iconic Diamond 9 formation."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/riat2024/redstornado2.jpg?raw=true",
+      "description": "The Red Arrows performing the 'Tornado' maneuver, with two jets executing barrel rolls around a seven-aircraft formation."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/riat2024/redstornado2a.jpg?raw=true",
+      "description": "Another view of the Red Arrows' 'Tornado' maneuver, showcasing the precision and skill of the pilots."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "lyfe",
+  "name": "Lyfe Discord Bot",
+  "type": "Discord Bot Development",
+  "image": "",
+  "description": "Lyfe was a RPG style Discord bot with trading, research, jobs and much more. This was written in Python, using MongoDB for storage.",
+  "blogPost": "/",
+  "link": "https://github.com/joehosten/LyfeArchive",
+  "date": "2021-01-01"
+}

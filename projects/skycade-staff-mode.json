@@ -1,0 +1,10 @@
+{
+  "id": "skycade-staff-mode",
+  "name": "Skycade Staffmode",
+  "type": "Minecraft Development",
+  "image": "",
+  "description": "A dedicated staff observer plugin exclusively made for Skycade LTD. \"SkycadeStaffMode\" is an exclusive Minecraft plugin designed specifically for \"Skycade,\" offering administrators the ability to restrict staff commands to prevent misuse. It provides real-time Discord and in-game notifications for staff command violations and staff mode toggles, making it a unique and effective tool within the \"Skycade\" network.",
+  "blogPost": "/",
+  "link": "https://skycade.net",
+  "date": "2021-04-10"
+}

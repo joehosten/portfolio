@@ -1,0 +1,10 @@
+{
+  "id": "alumina",
+  "name": "Alumina Java Framework",
+  "type": "Java APIs",
+  "image": "",
+  "description": "An in-dev modern Spigot plugin library to reduce boilerplate and expand on the developer experience. Alumina aids in the rapid development of Minecraft plugins by reducing boilerplate code and enhancing the developer experience by provided easy and simple solutions for creating these resources.",
+  "blogPost": "/",
+  "link": "https://dsc.gg/negative-games",
+  "date": "2023-01-01"
+}

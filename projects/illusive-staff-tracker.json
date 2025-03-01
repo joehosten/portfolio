@@ -1,0 +1,10 @@
+{
+  "id": "illusive-staff-tracker",
+  "name": "IllusiveMC Staff Tracker",
+  "type": "Minecraft Development",
+  "image": "",
+  "description": "IllusiveStaffTracker is a powerful Minecraft plugin designed to streamline the management and monitoring of server staff. Written in Java, it tracks essential staff activity such as log in/out times, playtime, and compiles this information into a weekly summary for server administrators.\nTo ensure seamless communication and reporting, IllusiveStaffTracker integrates with Discord JDA, linking Minecraft and Discord accounts. A custom Discord bot is built directly into the plugin, providing admins with real-time updates and reports on staff activity through Discord. All data is securely stored in MySQL, offering reliable and scalable data management.",
+  "blogPost": "/",
+  "link": "/",
+  "date": "2023-06-19"
+}

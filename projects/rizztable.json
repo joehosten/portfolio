@@ -1,0 +1,10 @@
+{
+  "id": "rizztable",
+  "name": "RizzTable",
+  "type": "Web Development",
+  "image": "https://github.com/joehosten/portfolio/blob/main/images/rizztable.png?raw=true",
+  "description": "This is a project for a University Lab Session. The lab comprises of basic HTML practices made for the first semester of my second year. Having experience in HTML and CSS already made this a simple task for me. Aside from simple HTML and CSS, RizzTable utilises a backend written in JS and uses SQL as the data storage. I decided to make something funny which helped my motivation in creating this.. project. ",
+  "blogPost": "/",
+  "link": "https://rizz.joehosten.me",
+  "date": "2024-09-26"
+}
