@@ -1,6 +1,6 @@
 {
   "title": "Moments from 2024",
-  "description": "A collection of miscellaneous photographs capturing diverse moments and scenes.",
+  "description": "A collection of miscellaneous photographs capturing diverse moments and scenes from 2024.",
   "coverImage": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/fireworks.JPG?raw=true",
   "images": [
     {
@@ -24,16 +24,24 @@
       "description": "A vibrant display of fireworks illuminating the night sky."
     },
     {
-      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/mini-penygader-mountain.JPG?raw=true",
-      "description": "A portrait of my friend, Mini, with the majestic Penygader Mountain as the backdrop."
-    },
-    {
       "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/stars.JPG?raw=true",
       "description": "A breathtaking night sky filled with countless stars."
     },
     {
       "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/sunset-road.jpg?raw=true",
       "description": "A picturesque sunset over a winding country road."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/joe-penygader.jpg?raw=true",
+      "description": "A portrait of my friend, Joe, in the picturesque Penygader Valley."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/owen-durdle-door.jpg?raw=true",
+      "description": "A shot of my friend, Owen, from behind with the iconic Durdle Door framing the scene."
+    },
+    {
+      "src": "https://github.com/joehosten/portfolio/blob/main/images/photography/various/mini-penygader-mountain.JPG?raw=true",
+      "description": "A portrait of my friend, Mini, with the majestic Penygader Mountain as the backdrop."
     }
   ]
 }
