@@ -1,0 +1,15 @@
+{
+  "title": "Gallery 1 Title",
+  "description": "This is a description of Gallery 1.",
+  "coverImage": "https://i.imgur.com/g5z7Lc5.jpeg",
+  "images": [
+    {
+      "src": "https://i.imgur.com/g5z7Lc5.jpeg",
+      "description": "Majestic mountains under a clear blue sky."
+    },
+    {
+      "src": "https://i.imgur.com/g5z7Lc5.jpeg",
+      "description": "A lush green forest with sunlight filtering through the trees."
+    }
+  ]
+}

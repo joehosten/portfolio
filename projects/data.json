@@ -1,0 +1,10 @@
+{
+  "id": "portfolio",
+  "name": "Joe Hosten Portfolio",
+  "type": "Web Development",
+  "image": "projects-portfolio.png",
+  "description": "This portfolio, although I had a lot of help from <span class=\"beautiful\">slz</span>",
+  "blogPost": "/",
+  "link": "/",
+  "date": "2025-02-27"
+}
