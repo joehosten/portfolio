@@ -59,42 +59,95 @@ We offer the following licenses for our products and services:
     - Payment for private commissions is processed via Zoho Books or PayPal. Payment terms are specified in the invoice.
     - Payment for non-private commissions is handled by third-party intermediaries. We do not collect or store your payment information in these cases.
 - **Refunds:**
-    - If we are unable to complete the commissioned project, you will receive a full refund.
-    - Partial work delivered is non-refundable unless otherwise agreed upon in writing.
-    - **Chargebacks:** Initiating a chargeback without first attempting to resolve the issue with us directly will result in immediate termination of services and forfeiture of any rights to the product, including source code and support.
+    * **Full Refund (Our Inability to Complete):** If we are unable to complete the commissioned project due to our own circumstances, you will receive a full refund.
+    * **Client-Initiated Cancellations:**
+        * **Not Yet Started:** If you cancel before any work has commenced, you will receive a 90% refund, with a 10% cancellation fee.
+        * **MVP (Minimum Viable Product) Delivered:** If you cancel after the MVP has been delivered, a refund will be issued for the portion of the project that has not yet been started. The MVP itself is non-refundable. The maximum refund in this scenario is 90% of the total project cost.
+        * **Midway Through Project (After MVP):** If you cancel midway through the project (after the MVP has been delivered), a refund will be issued based on the extent of the work not completed. The time and resources already invested will be taken into consideration when calculating the refund amount. Therefore, the refund amount may be lower if significant time has already been spent on the project.
+        * **Near Completion/After Completion:** Refunds are highly unlikely at this stage. Any potential refund will be considered on a case-by-case basis and will likely be minimal or non-existent.
+    * **After Commission Completion and Sign-Off:** Once the commissioned project is completed and you have provided formal sign-off, no refunds will be issued.
+    * **Chargebacks:** Initiating a chargeback without first attempting to resolve the issue directly with us will result in immediate termination of services and forfeiture of any rights to the product, including source code and support.
+ 
+## **6. Refusal of Service**
 
-## **6. Support and Maintenance**
+We reserve the right to refuse service at any time. We will refuse service for any request that violates these terms, any third-party policies, or for any product that is, or resembles, a product for a competitor.
+
+## **7. Service Abuse**
+
+You may not abuse the services we provide under any circumstances. This includes, but is not limited to:
+
+* Modifying, reselling, or claiming our work as your own, unless you have a "Full Ownership License."
+* Harassing, bombarding, or otherwise exploiting us or our team.
+* Committing fraud or initiating unauthorized chargebacks.
+* Using our services for any malicious or illegal intent.
+
+## **8. Fraud**
+
+You must have a reasonable intent to compensate for our services as outlined in this agreement when commissioning our work. You are responsible for paying the invoice in full and on time, according to the agreed-upon terms and commission timeline. You may not charge back or forcibly request a refund. For refund requests, please contact us directly (see the contact section of these terms).
+
+## **9. Exclusive Access to Files**
+
+* **Client Responsibility:** It is your sole responsibility to download and maintain a copy of your commissioned files. We may not retain original files after the warranty period specified in your license. After this period, we will not be liable for any file loss.
+* You are responsible for creating and maintaining your own backups of all provided files.
+
+## **10. Portfolio**
+
+Unless explicitly agreed upon with management prior to placing an order, we reserve the right to use any project/product for promotional purposes and/or include it in our portfolio. We will not include your name or identifying information without your permission and will always watermark our work.
+
+## **11. Commission Timeline**
+
+We are not responsible for missed deadlines if you fail to provide the necessary information to complete the commission. It is your responsibility to set and review the project timeline in advance. We are not responsible for timeline changes caused by natural disasters, outages, or events beyond our control.
+
+Once the final product is delivered, the order will remain open for a maximum of 30 days. If we do not receive conclusive confirmation of your satisfaction within this period, the order will be closed.
+
+**Basic Commission Process:**
+
+1.  Order is opened.
+2.  The request is considered.
+3.  If we can fulfill the request, we will discuss it with you, and a quote will be sent. If not, we will inform you.
+4.  Upon acceptance of the quote, payment will be processed. Payments can be made in full or with a minimum 50% deposit.
+5.  We will maintain communication with you throughout the project.
+6.  Before final product delivery, the remaining balance (if any) must be paid.
+7.  Upon payment, the product is delivered.
+8.  You may request changes or sign off on the project as complete.
+
+## **12. Deadlines and Alterations**
+
+* Any alterations to a commission may incur additional charges and/or delays, as determined by us. All details must be clearly outlined at the beginning of the project to prevent further changes.
+* Deadlines begin once the initial payment is received. Alterations may change the deadline. We are not responsible for deadline changes if we are waiting for your response, which is delaying the commission's progress.
+
+## **13. Support and Maintenance**
 
 - Support and maintenance terms are specific to each license type as outlined in Section 3.
 - **Warranty Coverage:**
     - Warranties cover maintenance and support requests that fall within the scope of the original product or commission. Requests outside of this scope will be subject to additional charges.
     - We are only able to provide support and maintenance for products that have not been modified. Any modification by you voids the warranty.
 
-## **7. Termination**
+## **14. Termination**
 
 - **Voluntary Termination:** You may terminate your use of our services or products at any time by providing us with written notice.
 - **Involuntary Termination:** We may terminate your access to our services or products immediately and without notice for any violation of these Terms.
 
-## **8. Disclaimer of Warranties**
+## **15. Disclaimer of Warranties**
 
 EXCEPT AS EXPRESSLY PROVIDED IN THESE TERMS, OUR SERVICES AND PRODUCTS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT OUR SERVICES OR PRODUCTS WILL BE ERROR-FREE, UNINTERRUPTED, OR SECURE.
 
-## **9. Limitation of Liability**
+## **16. Limitation of Liability**
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF OUR SERVICES OR PRODUCTS, WHETHER IN CONTRACT, TORT, OR OTHERWISE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-## **10. Indemnification**
+## **17. Indemnification**
 
 You agree to indemnify and hold us harmless from and against any and all claims, liabilities, damages, losses, and expenses (including attorney's fees) arising out of or related to your use of our services or products, your violation of these Terms, or your violation of any rights of a third party.
 
-## **11. Governing Law and Dispute Resolution**
+## **18. Governing Law and Dispute Resolution**
 
 These Terms shall be governed by and construed in accordance with the laws of England and Wales. Any dispute arising out of or relating to these Terms shall be subject to the exclusive jurisdiction of the courts of England and Wales.
 
-## **12. Entire Agreement**
+## **19. Entire Agreement**
 
 These Terms constitute the entire agreement between you and us with respect to the subject matter hereof and supersede all prior or contemporaneous communications, representations, or agreements, whether oral or written.
 
-## **13. Contact Us**
+## **20. Contact Us**
 
 If you have any questions about these Terms, please contact us at [hello@joehosten.me](mailto:hello@joehosten.me).
