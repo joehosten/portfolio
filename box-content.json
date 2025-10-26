@@ -6,8 +6,8 @@
     "welcome": "Welcome! This is the root of Labs, where weird experiments happen.",
     "tagline": "Just for fun and chaos",
     "links": [
-      {"name": "/rizz", "href": "/rizz"},
-      {"name": "/iloveyou", "href": "/iloveyou"}
+      {"name": "Rizztable", "href": "/rizz"},
+      {"name": "I love you 💞", "href": "/iloveyou"}
     ],
     "bgStart": "#ecfdf5",
     "bgMid": "#f8fafc",
@@ -23,8 +23,8 @@
     "welcome": "Internal services for projects and testing.",
     "tagline": "All systems go",
     "links": [
-      {"name": "/paste", "href": "/paste"},
-      {"name": "/repo", "href": "/repo"}
+      {"name": "Hastebin", "href": "/paste"},
+      {"name": "Nexus", "href": "/repo"}
     ],
     "bgStart": "#ffe4e6",
     "bgMid": "#fff0f6",
@@ -40,8 +40,8 @@
     "welcome": "All HypeDev services in one place.",
     "tagline": "Track and status made simple",
     "links": [
-      {"name": "track.hypedev.joehosten.me", "href": "https://track.hypedev.joehosten.me"},
-      {"name": "status.joehosten.me", "href": "https://status.joehosten.me"}
+      {"name": "Client Portal", "href": "https://track.hypedev.joehosten.me"},
+      {"name": "Status", "href": "https://status.joehosten.me"}
     ],
     "bgStart": "#e0f2fe",
     "bgMid": "#f0f9ff",
