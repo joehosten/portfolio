@@ -3,44 +3,67 @@
     "favicon": "🧪",
     "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
     "title": "Joe Hosten Labs",
-    "welcome": "Sometimes it works. Sometimes it’s just a pile of pixels pretending to be functional.",
+    "welcome": "Welcome! This is the root of Labs, where weird experiments happen.",
+    "tagline": "Just for fun and chaos",
     "links": [
-      { "name": "Rizz Project", "href": "/rizz" },
-      { "name": "I Love You", "href": "/iloveyou" }
+      {"name": "/rizz", "href": "/rizz"},
+      {"name": "/iloveyou", "href": "/iloveyou"}
     ],
-    "tagline": "Expect chaos with a hint of brilliance."
+    "bgStart": "#ecfdf5",
+    "bgMid": "#f8fafc",
+    "bgEnd": "#d1fae5",
+    "colorText": "#064e3b",
+    "colorPrimary": "#10b981",
+    "colorPrimaryHover": "#059669"
+  },
+  "skyhawk": {
+    "favicon": "🛠️",
+    "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
+    "title": "Skyhawk Services",
+    "welcome": "Internal services for projects and testing.",
+    "tagline": "All systems go",
+    "links": [
+      {"name": "/paste", "href": "/paste"},
+      {"name": "/repo", "href": "/repo"}
+    ],
+    "bgStart": "#ffe4e6",
+    "bgMid": "#fff0f6",
+    "bgEnd": "#ffccd5",
+    "colorText": "#9d174d",
+    "colorPrimary": "#ec4899",
+    "colorPrimaryHover": "#db2777"
   },
   "hypedev": {
-    "favicon": "⚙️",
+    "favicon": "🚀",
     "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
     "title": "HypeDevelopment",
-    "welcome": "Your portal to all HypeDev services.",
+    "welcome": "All HypeDev services in one place.",
+    "tagline": "Track and status made simple",
     "links": [
-      { "name": "Client Tracker", "href": "https://track.hypedev.joehosten.me" },
-      { "name": "Service Status", "href": "https://status.joehosten.me" }
+      {"name": "track.hypedev.joehosten.me", "href": "https://track.hypedev.joehosten.me"},
+      {"name": "status.joehosten.me", "href": "https://status.joehosten.me"}
     ],
-    "tagline": "Development, deployment, and delivery — powered by HypeDev."
+    "bgStart": "#e0f2fe",
+    "bgMid": "#f0f9ff",
+    "bgEnd": "#bae6fd",
+    "colorText": "#1e3a8a",
+    "colorPrimary": "#3b82f6",
+    "colorPrimaryHover": "#1d4ed8"
   },
   "redir": {
     "favicon": "🔗",
     "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
-    "title": "Joe Hosten Redirects",
-    "welcome": "Links to things. Mostly useful, sometimes just confusing.",
+    "title": "Redirects",
+    "welcome": "Quick links to everywhere you need.",
+    "tagline": "Fast and simple",
     "links": [
-      { "name": "Discord", "href": "/discord" }
+      {"name": "Discord", "href": "/discord"}
     ],
-    "tagline": "Click responsibly."
-  },
-  "skyhawk": {
-    "favicon": "🌸",
-    "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
-    "title": "Skyhawk Services",
-    "welcome": "Welcome to internal services. Generally unauthenticated.",
-    "links": [
-      { "name": "Paste Service", "href": "/paste" },
-      { "name": "Repository", "href": "/repo" }
-    ],
-    "tagline": "Mostly safe, sometimes wacky."
+    "bgStart": "#fef9c3",
+    "bgMid": "#fef3c7",
+    "bgEnd": "#fde68a",
+    "colorText": "#78350f",
+    "colorPrimary": "#f97316",
+    "colorPrimaryHover": "#c2410c"
   }
 }
-
