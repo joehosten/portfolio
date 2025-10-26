@@ -20,11 +20,14 @@
     "favicon": "🛠️",
     "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
     "title": "Skyhawk Services",
-    "welcome": "Internal services for projects and testing.",
+    "welcome": "Internal and public services. Some require extra authentication 🔒",
     "tagline": "All systems go",
     "links": [
       {"name": "Hastebin", "href": "/paste"},
       {"name": "Nexus", "href": "/repo"}
+      {"name": "Domain Management 🔒", "href": "/domains"},
+      {"name": "Docker 🔒", "href": "/docker"}
+
     ],
     "bgStart": "#ffe4e6",
     "bgMid": "#fff0f6",
