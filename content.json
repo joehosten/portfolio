@@ -1,0 +1,46 @@
+{
+  "labs": {
+    "favicon": "🧪",
+    "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
+    "title": "Joe Hosten Labs",
+    "welcome": "Sometimes it works. Sometimes it’s just a pile of pixels pretending to be functional.",
+    "links": [
+      { "name": "Rizz Project", "href": "/rizz" },
+      { "name": "I Love You", "href": "/iloveyou" }
+    ],
+    "tagline": "Expect chaos with a hint of brilliance."
+  },
+  "hypedev": {
+    "favicon": "⚙️",
+    "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
+    "title": "HypeDevelopment",
+    "welcome": "Your portal to all HypeDev services.",
+    "links": [
+      { "name": "Client Tracker", "href": "https://track.hypedev.joehosten.me" },
+      { "name": "Service Status", "href": "https://status.joehosten.me" }
+    ],
+    "tagline": "Development, deployment, and delivery — powered by HypeDev."
+  },
+  "redir": {
+    "favicon": "🔗",
+    "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
+    "title": "Joe Hosten Redirects",
+    "welcome": "Links to things. Mostly useful, sometimes just confusing.",
+    "links": [
+      { "name": "Discord", "href": "/discord" }
+    ],
+    "tagline": "Click responsibly."
+  },
+  "skyhawk": {
+    "favicon": "🌸",
+    "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
+    "title": "Skyhawk Services",
+    "welcome": "Welcome to internal services. Generally unauthenticated.",
+    "links": [
+      { "name": "Paste Service", "href": "/paste" },
+      { "name": "Repository", "href": "/repo" }
+    ],
+    "tagline": "Mostly safe, sometimes wacky."
+  }
+}
+
