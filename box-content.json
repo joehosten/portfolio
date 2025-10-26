@@ -43,7 +43,7 @@
     "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
     "title": "HypeDevelopment",
     "welcome": "All HypeDev services in one place.",
-    "tagline": "Track and status made simple",
+    "tagline": "HypeDev Client and Public services.",
     "links": [
       {"name": "Client Portal", "href": "https://track.hypedev.joehosten.me"},
       {"name": "Status", "href": "https://status.joehosten.me/status/default"}
@@ -60,7 +60,7 @@
     "logo": "https://cdn.joehosten.me/api/cdn/download/images/logo-top-blue-bg.png",
     "title": "Redirects",
     "welcome": "Quick links to everywhere you need.",
-    "tagline": "Fast and simple",
+    "tagline": "Where do you wish to go, traveler of links?<br>The web decides your path... not you.",
     "links": [
       {"name": "Discord", "href": "/discord"}
     ],
