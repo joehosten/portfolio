@@ -25,6 +25,7 @@
     "links": [
       {"name": "Hastebin", "href": "/paste"},
       {"name": "Nexus", "href": "/repo"},
+      {"name": "Assets Management 🔒", "href": "https://cdn.joehosten.me"},
       {"name": "Domain Management 🔒", "href": "/domains"},
       {"name": "Panel 🔒", "href": "https://panel.joehosten.me"},
       {"name": "Docker 🔒", "href": "/docker"}
