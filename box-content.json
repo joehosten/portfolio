@@ -26,6 +26,7 @@
       {"name": "Hastebin", "href": "/paste"},
       {"name": "Nexus", "href": "/repo"}
       {"name": "Domain Management 🔒", "href": "/domains"},
+      {"name": "Panel 🔒", "href": "https://panel.joehosten.me"},
       {"name": "Docker 🔒", "href": "/docker"}
 
     ],
