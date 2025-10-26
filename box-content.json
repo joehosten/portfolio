@@ -24,7 +24,7 @@
     "tagline": "All systems go",
     "links": [
       {"name": "Hastebin", "href": "/paste"},
-      {"name": "Nexus", "href": "/repo"}
+      {"name": "Nexus", "href": "/repo"},
       {"name": "Domain Management 🔒", "href": "/domains"},
       {"name": "Panel 🔒", "href": "https://panel.joehosten.me"},
       {"name": "Docker 🔒", "href": "/docker"}
