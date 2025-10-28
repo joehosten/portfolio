@@ -47,6 +47,7 @@
     "tagline": "HypeDev Client and Public services.",
     "links": [
       {"name": "Client Portal", "href": "https://track.hypedev.joehosten.me"},
+      {"name": "Discord Orders Portal", "href": "https://transcripts.hypedev.joehosten.me"},
       {"name": "Status", "href": "https://status.joehosten.me/status/default"}
     ],
     "bgStart": "#e0f2fe",
