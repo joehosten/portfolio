@@ -58,6 +58,7 @@ We offer the following licenses for our products and services:
 - **Payment:**
     - Payment for private commissions is processed via Zoho Books or PayPal. Payment terms are specified in the invoice.
     - Payment for non-private commissions is handled by third-party intermediaries. We do not collect or store your payment information in these cases.
+    - A **non refundable** service charge of **15%** will automatically be applied.
 - **Refunds:**
     * **Full Refund (Our Inability to Complete):** If we are unable to complete the commissioned project due to our own circumstances, you will receive a full refund.
     * **Client-Initiated Cancellations:**
