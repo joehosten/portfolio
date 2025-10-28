@@ -5,7 +5,7 @@ description: Terms of Service for commissioning products from Joe Hosten (HypeDe
 
 **Terms of Service for HypeDev**
 
-**Effective Date:** 20/11/2024 (dd/mm/yyyy)
+**Last Update:** 28/10/2025 (dd/mm/yyyy)
 
 ## **1. Introduction**
 
