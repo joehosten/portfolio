@@ -1,4 +1,5 @@
 {
-  "experienceStartDate": "2020-01-01",
-  "linesOfCode": "150,000+"
+  "experienceStartDate": "2021-01-01",
+  "linesOfCode": "150,000+",
+  "techStack": ["Java", "Spring Boot", "TypeScript", "Next.js", "React", "Node.js", "PostgreSQL", "Redis", "Docker", "AWS"]
 }
