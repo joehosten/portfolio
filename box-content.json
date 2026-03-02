@@ -9,12 +9,12 @@
       {"name": "Rizztable", "href": "/rizz"},
       {"name": "I love you 💞", "href": "/iloveyou"}
     ],
-    "bgStart": "#ecfdf5",
-    "bgMid": "#f8fafc",
-    "bgEnd": "#d1fae5",
+    "bgStart": "#eef5f1",
+    "bgMid": "#f5f7f6",
+    "bgEnd": "#d6e9dd",
     "colorText": "#064e3b",
-    "colorPrimary": "#10b981",
-    "colorPrimaryHover": "#059669"
+    "colorPrimary": "#2f9e73",
+    "colorPrimaryHover": "#1e7d5a"
   },
   "skyhawk": {
     "favicon": "🛠️",
@@ -32,12 +32,12 @@
       {"name": "Docker 🔒", "href": "/docker"}
 
     ],
-    "bgStart": "#ffe4e6",
-    "bgMid": "#fff0f6",
-    "bgEnd": "#ffccd5",
+    "bgStart": "#f3eaec",
+    "bgMid": "#f6f1f3",
+    "bgEnd": "#ead4d9",
     "colorText": "#9d174d",
-    "colorPrimary": "#ec4899",
-    "colorPrimaryHover": "#db2777"
+    "colorPrimary": "#d1558e",
+    "colorPrimaryHover": "#b53472"
   },
   "hypedev": {
     "favicon": "🚀",
@@ -50,12 +50,12 @@
       {"name": "Discord Orders Portal", "href": "https://transcripts.hypedev.joehosten.me"},
       {"name": "Status", "href": "https://status.joehosten.me/status/default"}
     ],
-    "bgStart": "#e0f2fe",
-    "bgMid": "#f0f9ff",
-    "bgEnd": "#bae6fd",
+    "bgStart": "#e8eef4",
+    "bgMid": "#f1f4f7",
+    "bgEnd": "#cdd8e4",
     "colorText": "#1e3a8a",
-    "colorPrimary": "#3b82f6",
-    "colorPrimaryHover": "#1d4ed8"
+    "colorPrimary": "#5a8abb",
+    "colorPrimaryHover": "#3d6d9e"
   },
   "redir": {
     "favicon": "🔗",
@@ -66,11 +66,11 @@
     "links": [
       {"name": "Discord", "href": "/discord"}
     ],
-    "bgStart": "#fef9c3",
-    "bgMid": "#fef3c7",
-    "bgEnd": "#fde68a",
+    "bgStart": "#f3f0db",
+    "bgMid": "#f3f0dc",
+    "bgEnd": "#e3dbb0",
     "colorText": "#78350f",
-    "colorPrimary": "#f97316",
-    "colorPrimaryHover": "#c2410c"
+    "colorPrimary": "#d07a2e",
+    "colorPrimaryHover": "#a55a18"
   }
 }
