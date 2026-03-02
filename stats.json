@@ -1,5 +1,24 @@
 {
   "experienceStartDate": "2020-01-01",
   "linesOfCode": "150,000+",
-  "techStack": ["Java", "Python", "Spring Boot", "TypeScript", "Next.js", "React", "Node.js", "PostgreSQL", "MariaDB", "Redis", "Docker", "AWS", "GCP", "Unix / Ununtu"]
+  "techStack": [
+    "Java", 
+    "Python", 
+    "TypeScript", 
+    "Spring",
+    "Spring Boot", 
+    "Next.js", 
+    "React", 
+    "Node.js", 
+    "PostgreSQL", 
+    "MariaDB", 
+    "MySQL", 
+    "Redis", 
+    "Docker", 
+    "Pterodactyl", 
+    "LLM Integration", 
+    "AWS", 
+    "GCP", 
+    "Unix / Ubuntu"
+  ]
 }
