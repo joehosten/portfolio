@@ -87,3 +87,5 @@ A single Markdown file with YAML front-matter.
 |---------------|----------|----------|----------------------------------|
 | `title`       | `string` | Yes      | Page title shown as the heading. |
 | `description` | `string` | Yes      | Meta description for SEO.        |
+
+https://cdn.discordapp.com/attachments/776577474406252554/1422701482947510282/joe_pack_2.0.mrpack?ex=69bbc642&is=69ba74c2&hm=d968da1b0e44dd551836d76874a11ccdac466873bfa3cab5e878b55c81e64b8b&
